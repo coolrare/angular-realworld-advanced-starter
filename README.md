@@ -6,3 +6,12 @@ cd angular-realworld-advnced-starter
 npm install
 npm start
 ```
+
+# 練習用的後端
+
+```shell
+git clone https://github.com/coolrare/realworld-backend
+cd realworld-backend
+npm install
+npm start
+```
